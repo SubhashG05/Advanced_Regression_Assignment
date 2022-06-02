@@ -2,6 +2,17 @@
 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.
 
+![kaggle-image](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
+
+<img
+src=“images/SubPronouns.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
+![google-image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fhouse&psig=AOvVaw14iNiLxf06ZgRCgvxEGBKU&ust=1654252922672000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiamtPKjvgCFQAAAAAdAAAAABAP)
+
 The company is looking at prospective properties to buy to enter the market. We need to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 #### The company wants to know:
