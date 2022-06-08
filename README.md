@@ -40,7 +40,6 @@ We need to model the price of houses with the available independent variables. T
 - matplotlib - version 3.3.2
 - seaborn - version 0.11.0
 - scikit-learn - version 1.0.2
-- statsmodels - version 0.12.0
 
 
 ## Contact
